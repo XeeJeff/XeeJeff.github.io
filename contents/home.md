@@ -11,6 +11,6 @@ tq53@cornell.edu
 M.E., Operation Research and Information Engineering, Cornell University, 2024—2025 (expected).\
 B.A., Mathematics and Data Science, New York University, 2020—2024 .
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Relevant Coursework
+Advanced Techniques in ML and Deep Learning, Numerical Analysis, Fundamentals of Machine Learning, Python Programming, Regression Modeling, Discrete Mathematics, Probability and Statistics, Causal Inference, Linear Algebra, Simulation and Modeling
 
