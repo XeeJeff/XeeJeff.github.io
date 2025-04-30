@@ -3,9 +3,14 @@ Applied clustering techniques like KMeans and SOM to dynamically group topics an
 Developed model to summarize COVID-19 research papers in BERT, improving accessibility to key findings in vast datasets\
 Achieved 0.85 BERTScore on topics, ensuring high-quality summaries that aid researchers in quickly
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong> Kaggle - Credit Fraud Detection </strong>\
+Converted the data type through pre-processing on 285K PCAed data to identify relationship in features and fraud via Python\
+Found the peak-time of the fraud cases via EDA to understand the time fraud transactions occurred using bi-variate analysis\
+Conceptualized the differences about the time and amount in fraud and legitimate transactions through visualization
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
+- <strong> NYU - Capstone Project | Artwork Rating Prediction </strong>\
+Performed data preprocessing and EDA on 300 artwork data to understand association between user preference and artworks\
+Built a linear regression model with 0.07 R-square on the artwork data as the benchmark model to predict user preference\
+Implemented PCA to transform the original data to perform the clustering by K-means and identify the similarity in artworks
 
 
