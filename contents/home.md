@@ -2,7 +2,7 @@
 
 [![XeeJeff](https://img.shields.io/badge/XeeJeff-github-blue?logo=github)](https://github.com/XeeJeff)
 
-He is currently pursuing a Master's Degree in Operation Research and Information Engineering, at College of Engineering, Cornell University, NY, US.
+I am currently pursuing a Master's Degree in Operation Research and Information Engineering, at College of Engineering, Cornell University, NY, US.
 
 #### Email
 tq53@cornell.edu
